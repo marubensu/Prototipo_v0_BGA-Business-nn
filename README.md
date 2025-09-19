@@ -296,5 +296,5 @@ Para soporte técnico o consultas sobre el proyecto, contactar al equipo de desa
 ---
 
 **Versión**: 1.0.0  
-**Última actualización**: Enero 2025  
+**Última actualización**: Septiembre 2025  
 **Desarrollado con**: React + Next.js + Tailwind CSS
